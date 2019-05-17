@@ -153,9 +153,9 @@
   <component name="MavenRunner">
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="445" />
-    <option name="y" value="46" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="444" />
+    <option name="y" value="45" />
     <option name="width" value="1467" />
     <option name="height" value="1106" />
   </component>
